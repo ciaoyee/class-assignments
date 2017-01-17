@@ -1,1 +1,11 @@
 Classwork for 1-17
+.
+..
+badlynamedfile.txt
+classwork-Tues-1-17-2017
+classwork-Tues-1-17-2017.txt
+.config
+.git
+readme.txt
+temp.txt
+thurs-1-12-2017
