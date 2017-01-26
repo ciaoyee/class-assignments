@@ -1,0 +1,100 @@
+  563  git commit -m "week-2-hw-eeb174.txt"
+  564  gedit classwork-Tuesday-1-24.txt
+  565  cd ..
+  566  cd class-assignments
+  567  gedit classwork-Tues-1-24.txt
+  568  git add classwork-Tues-1-24.txt
+  569  git commit -m "Classwork for Tuesday 1-24"
+  570  git push
+  571  cd ..
+  572  cd csb
+  573  cd CSB
+  574  cd unix
+  575  cd sandbox
+  576  cd eeb-177
+  577  cd CSB/
+  578  cd unix/
+  579  cd sandbox/
+  580  wget http://tinyurl.com/cep-taxa -0 cep-taxa.txt
+  581  wget http://tinyurl.com/cep-taxa -O cep-taxa.txt
+  582  gedit cep-taxa.txt
+  583  grep Orchidacea cep-taxa.txt
+  584  grep -n Orchidacea cep-taxa.txt
+  585  grep -c Orchidacea cep-taxa.txt
+  586  grep falcon cep-taxa.txt
+  587  grep Falcon cep-taxa.txt
+  588  grep -i Falcon cep-taxa.txt
+  589  grep -i Ara cep-taxa.txt
+  590  grep -i -w Ara cep-taxa.txt
+  591  grep -B 3 -A 3 -i -w Cebus  cep-taxa.txt
+  592  grep -n -i iguana cep-taxa.txt
+  593  grep -n -v -i -w ara cep-taxa.txt
+  594  grep -n -c -i -w ara cep-taxa.txt
+  595  grep -v -c -i -w ara cep-taxa.txt
+  596  grep -v -c -i -w ara cep-taxa.txt >> non-macaws.txt
+  597  ls -l
+  598  find d.*
+  599  find d .*
+  600  ls cep-taxa.txt 
+  601  ls -l
+  602  ls ../
+  603  find .*./data/
+  604  find .* ../data
+  605  find ../data
+  606  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/
+  607  find ../data/ | wc -l
+  608  find ../data/ -name "n30.txt"
+  609  find /home/eeb177-student/Desktop/ -name "classwork-Tues-1-17.txt"
+  610  cd ../data/
+  611  ls
+  612  find ../data/ -iname
+  613  find ../data/ -iname *about*
+  614  find ../data/ -iname "*about*"
+  615  cd sandbox
+  616  cd Sandbox
+  617  find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork
+  618  cd ..
+  619  cd
+  620  cd Desktop
+  621  cd eeb-177
+  622  cd class-assignments
+  623  rm classwork-Tues-1-17-2017
+  624  cd ..
+  625  cd CSB/
+  626  cd unix/sandbox/
+  627  find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  628  find ../data -maxdepth 1 -name "*.txt*"
+  629  find ../data -maxdepth 1 -name "*.txt*" | wc -l
+  630  find ../data -name "*.txt*" | wc -l
+  631  ls -l
+  632  touch permissions.txt
+  633  ls -l
+  634  chmod u=rwx permissions.txt
+  635  ls -l
+  636  chmod g+w,u+x permissions.txt
+  637  ls -l permissions.txt
+  638  history -n 150
+  639  history 
+  640  history 75
+  641  cd ..
+  642  cd class-assignments
+  643  git add classwork-Tues-1-24.txt
+  644  git commit -m "appended txt files"
+  645  git push
+  646  history 79 >> /home/eeb177-student/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  647  gedit regex_hw.txt
+  648  cd ../
+  649  cd homework
+  650  cd ..
+  651  cd lab-work
+  652  cd exercise-2
+  653  gedit regex_hw.txt
+  654  cd ..
+  655  mkdir exercise-3
+  656  ls
+  657  cd exercise-3
+  658  ls
+  659  jupyter notebook
+  660  history 
+  661  history tail -n 100 >> /home/eeb177-student/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt
+  662  history |  tail -n 100 >> /home/eeb177-student/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt
